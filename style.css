@@ -1,0 +1,43 @@
+*{
+	font-family: 'Muli', sans-serif;
+}
+.carousel-inner img{
+	width: 100%;
+	height: 700px;
+}
+
+.main{
+	background-image: url('m2.jpg');
+	width: 100%;
+	height: 100vh;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.main_text{
+	position: absolute;
+	top: 295px;
+	left: 100px;
+	right: 100px;
+	color: white;
+}
+.main_text h1{
+	font-size: 59px;
+	
+}
+.main_text p{
+	font-size: 19px;
+	text-align: center;
+	
+}
+.search{
+	margin-right: 50px;
+}
+.slideshow{
+	width: 100%;
+}
+.fa-star,.fa-star-half-o,.fa-star-o{
+	color: yellowgreen;
+	padding: 1% 0%;
+}
